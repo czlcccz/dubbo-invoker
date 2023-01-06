@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.czlcccz.dubboinvoker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.czlcccz.dubboinvoker.MyBundle
 
 class MyApplicationService {
 
